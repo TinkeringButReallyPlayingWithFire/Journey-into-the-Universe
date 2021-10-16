@@ -319,7 +319,7 @@ z-index: -100;
     position: absolute;
     top: 5%;
     right: 5%;
-    background-image: url(/assets/bh_labeled.jpg);
+    background-image: url(./assets/bh_labeled.jpg);
     background-repeat: no-repeat;
     background-position: center;
   }
@@ -344,7 +344,7 @@ z-index: -100;
     position: absolute;
     top: 5%;
     right: 5%;
-    background-image: url(/assets/pluto-header.jpg);
+    background-image: url(./assets/pluto-header.jpg);
     background-repeat: no-repeat;
     background-position: center;
   }
@@ -393,7 +393,7 @@ z-index: -100;
     position: absolute;
     top: 105%;
     right: 5%;
-    background-image: url(/assets/Bh-section2-gif.gif);
+    background-image: url(./assets/Bh-section2-gif.gif);
     background-repeat: no-repeat;
     background-position: center;
   }
@@ -406,7 +406,7 @@ z-index: -100;
     position: absolute;
     top: 105%;
     right: 5%;
-    background-image: url(/assets/ThorneZytkowObject.jpg);
+    background-image: url(./assets/ThorneZytkowObject.jpg);
     background-repeat: no-repeat;
     background-position: center;
   }
@@ -419,7 +419,7 @@ z-index: -100;
     position: absolute;
     top: 105%;
     right: 5%;
-    background-image: url(/assets/pluto_terrain.jpg);
+    background-image: url(./assets/pluto_terrain.jpg);
     background-repeat: no-repeat;
     background-position: center;
   }
@@ -470,7 +470,7 @@ z-index: -100;
     position: absolute;
     top: 202.5%;
     right: 5%;
-    background-image: url(/assets/Black_hole__Messier_87_crop_max_res.jpg);
+    background-image: url(./assets/Black_hole__Messier_87_crop_max_res.jpg);
     background-repeat: no-repeat;
     background-position: center;
   }
@@ -483,7 +483,7 @@ z-index: -100;
     position: absolute;
     top: 202.5%;
     right: 5%;
-    background-image: url(/assets/thornezytkowobjectHV2112.jpg);
+    background-image: url(./assets/thornezytkowobjectHV2112.jpg);
     background-repeat: no-repeat;
     background-position: center;
   }
@@ -496,7 +496,7 @@ z-index: -100;
     position: absolute;
     top: 202.5%;
     right: 5%;
-    background-image: url(/assets/1024pxPluto_in_True_Color__HighRes.jpg);
+    background-image: url(./assets/1024pxPluto_in_True_Color__HighRes.jpg);
     background-repeat: no-repeat;
     background-position: center;
   }
