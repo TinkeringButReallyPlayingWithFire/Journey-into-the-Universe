@@ -35,37 +35,14 @@ These instructions will get you a copy of the project up and running on your loc
 
 A step by step series of examples that tell you how to get a development env running
 
-**1 - Under the repository name, click Clone or download.**
+**1 - Under the repository name, right-hand side click 'Code' button.**
 
 <br>
 
-**2 - In the Clone with HTTPs section, click *clipboard icon* to copy the clone URL for the repository.**
+**2 - In the following pop-up box, depending on personal prefrences, there are a number of methods for you to set up and get running - whether that be from downloading the zip itself, or using https / github CLI.**
 <br>
 
-**3 - Open Git Bash.**
-<br>
 
-**4 - Change the current working directory to the location where you want the cloned directory to be made.**
-<br>
-
-**5 - Type git clone, and then paste the URL you copied in Step 2.**
-```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-```
-<br>
-
-**6 - Press Enter. Your local clone will be created.**
-```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-> Cloning into `Spoon-Knife`...
-> remote: Counting objects: 10, done.
-> remote: Compressing objects: 100% (8/8), done.
-> remove: Total 10 (delta 1), reused 10 (delta 1)
-> Unpacking objects: 100% (10/10), done.
-```
-
-#### Demo
-![](natours.gif)
 
 
 
