@@ -37,6 +37,7 @@ A step by step series of examples that tell you how to get a development env run
 <br>
 **1 - Under the repository name, right-hand side, click the 'Code' button.**
 <br>
+
 **2 - In the following pop-up box, depending on personal prefrences, there are a number of methods for you to get up and running - whether that be from downloading the zip itself, or using https / github CLI.**
 <br>
 
