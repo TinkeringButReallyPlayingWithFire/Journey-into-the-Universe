@@ -16,8 +16,7 @@
 
  <br>
 
-
-"Journey into the Universe" is my final project submission for my Web Development module, as part of my BSc Computer Science degree.
+This project was created when first getting to grips with Web Development!
 
 There was an immense amount of thought and research that went into the pre planning, brainstorming and initilisation stages. Along the way, upon each iteration, as more of my initial plan came about, the urge to add more and more along the lines of the dreaded "feature creep" occured, which led to me abstracting until I was happy with a more _minimalistic_ take - the core theme in terms of color and layout came from entropys perpetual grip, causing disorder in the Universe. 
 
